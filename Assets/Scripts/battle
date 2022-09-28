@@ -1,0 +1,15 @@
+1. Health
+- Show health bars
+2. Cannons
+- Fire broad side-cannons
+- Can fire at any time. Can time to hit multiple targets
+3. Oponent Abilities
+- If oponent is cornered they might self destruct.
+- Running along side a converter enemy type for 3 squares converts your mower to theres.
+4. Convert
+- If enemy health is low enough you can attempt to convert them like pokemon.
+- Are converted enemies removed from play.
+- Attempting to convert costs resources. Higher the cost, the more likely to convert (e.g. Ultra ball in pokemon)
+5. Economy
+- Damaging tiles leads to pay reductions. Should be able to see visual damage at 3-4 stages.
+Self destruct completley destroys occupied tile and damages surrounding tiles.

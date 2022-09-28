@@ -1,0 +1,19 @@
+
+
+
+- What is on current tile 
+    1. Input -> Floor light
+- Set or keep heading
+
+Checking operation at a heading can result in fail, success (success can mean wait)
+- Check tile at heading for each possible direction until sucess or run out of directions
+    Check heading
+        1. Input -> Block light, Robot light etc.
+        2. Robot 
+            a. Incoming
+            b. Leaving
+            c. Stationary
+        3. Block    
+            a. Held?
+            b. Available?
+                if success give block direction in block manager
